@@ -1,6 +1,8 @@
 # *"Szklany tron"* - Fantastyczna Opowieść o Intrygach i Magii
 *"Szklany tron"* to powieść z gatunku high fantasy, napisana przez amerykańską autorkę Sarah J. Maas. Książka ta stanowi pierwszy tom serii o tym samym tytule. Została po raz pierwszy opublikowana w 2012 roku, zdobywając szybko popularność wśród miłośników literatury fantasy.
 
+![szklany-tron](https://github.com/nataliadybczak/nataliadybczak.github.io/assets/147881114/ec28c897-4bcc-44ee-807b-5215e9b88ba4)
+
 ## Fabuła
 Akcja "Szklanego tronu" rozgrywa się w fikcyjnym świecie Erilei, pełnym magii, niebezpieczeństw i intryg politycznych. Główną bohaterką jest osiemnastoletnia Celaena Sardothien, niegdyś sławna zabójczyni, która zostaje pojmana i uwięziona w złowrogim więzieniu o nazwie Endovier. Jednakże, jej życie zmienia się diametralnie, gdy zostaje zaproponowana szansa na wolność.
 
